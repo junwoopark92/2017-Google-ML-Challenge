@@ -1,0 +1,6 @@
+test/
+train/
+validation/
+tmp/
+.idea/
+pretrained_model/
