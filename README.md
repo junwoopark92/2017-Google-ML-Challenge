@@ -1,5 +1,5 @@
 # 2017-GoogleMLChallenge
 Google Machine Learning Challenge: cats and dogs, quick draw, cart poll, face gan
 
-#detail
+# Detail
 https://mlchallenge2017.com/
